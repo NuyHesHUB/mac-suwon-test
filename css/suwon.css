@@ -2002,8 +2002,8 @@ float: left;}
     left: 0;
     width: 100%;
 }
-.section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul{}
-.section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul li{}
+.section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul{float: left;}
+.section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul li{float: left; width: 20%;}
 .section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul li button{}
 .section_box4 .box4-4 .title_box .tool_box .bar_box .tool_bar .state_bar .state_bar_list ul li button span{}
 
